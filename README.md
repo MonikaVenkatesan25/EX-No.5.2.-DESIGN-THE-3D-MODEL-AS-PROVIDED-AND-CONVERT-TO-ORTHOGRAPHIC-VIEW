@@ -4,7 +4,7 @@
 
 ## Ref No: 25017555
 
-## DATE: 10/2/2026
+## DATE: 12/2/2026
 
 ## AIM: 
 To create orthographic view of given 3D model
@@ -41,8 +41,9 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
-<img width="1006" height="712" alt="Screenshot 2026-02-12 143411" src="https://github.com/user-attachments/assets/280e5c83-03a5-400b-be97-4bd6bbd9b4b0" />
-<img width="1020" height="719" alt="Screenshot 2026-02-12 144006" src="https://github.com/user-attachments/assets/97bf4c85-6607-4de6-b528-ce4d5fd8330f" />
+<img width="1006" height="712" alt="Screenshot 2026-02-12 143411" src="https://github.com/user-attachments/assets/bced09ae-65dd-42af-b34d-89f0d409ce65" />
+
+<img width="1017" height="719" alt="Screenshot 2026-02-27 132237" src="https://github.com/user-attachments/assets/93e215cd-739c-44ad-a171-1adc34f43123" />
 
 
 ## RESULT:
